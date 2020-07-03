@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="keep_going">Keep Going</string>
+    <string name="new_game">New Game</string>
+    <string name="try_again">Try Again</string>
+    <string name="play_again">Play Again</string>
+    <string name="best_score">&#x2655; New Best Score\n</string>
+    <string name="game_over">Game Over</string>
+    <string name="you_win">You Win</string>
+    <string name="challenges">Challenges</string>
+    <string name="menu">Menu</string>
+    <string name="exit_challenges">Exit Challenges</string>
+    <string name="share">Share</string>
+    <string name="continue_game">Continue</string>
+    <string name="quit_game">Quit</string>
+    <string name="quit_game_msg">Are you sure you want to quit the game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="network_Error">Network error. Please retry when network is stable.</string>
+    <string name="save_snapshot">Snapshot has been successfully saved to gallery.</string>
+
+    <string name="how_to_play">How To Play</string>
+
+    <string name="HowToPlay_msg">
+       [1]\nThe game will give you an initial 4x4 board, totaling 16 tiles. Some tiles of 2 will be placed at random positions on the board.
+       \n\n[2]\nSwipe up, down, left, and right to move the tiles across the board. While moving, the tile will shift to next tile, as long as there’s available space.
+       \n\n[3]\nWhen tiles of the same number touch during a move, they will combine into one tile carrying the sum of the two tiles.
+       \n\n[4]\nOn every move, whether you were able to merge 2 tiles or not, a new tile of 2 or 4 will randomly appear on the board. This is how you get new tiles and numbers in play.
+       \n\n[5]\nContinue moving the tiles across the board to increase the numbers on the tiles. The objective is to reach get a 2048 tile on the board. This get be achieved by combining two 1024 tiles, coming from two 512 tiles, merged from two 256 tiles, and so on.
+       \n\n[6]\nThe game ends when the board is completely filled with numbered tiles and there’s no move available.
+    </string>
+
+</resources>
